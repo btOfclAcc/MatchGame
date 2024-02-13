@@ -1,0 +1,5 @@
+﻿  Memory.cpp
+C:\Users\lcv2142593\Downloads\MatchGame\MatchGame\Memory.cpp(29,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\lcv2142593\Downloads\MatchGame\MatchGame\Memory.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  MatchGame.vcxproj -> C:\Users\lcv2142593\Downloads\MatchGame\x64\Debug\MatchGame.exe
